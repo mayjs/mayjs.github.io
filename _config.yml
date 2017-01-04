@@ -1,11 +1,11 @@
 # Site settings
-title: Data Science Specialization
+title: Mayjs
 email:
-description: Community Site
+description: Personal blog about some of my projects
 baseurl:
 url:
 twitter_username:
-github_username:  DataScienceSpecialization
+github_username: mayjs
 
 # Build settings
 markdown: kramdown
